@@ -14,12 +14,6 @@
 Pastebin: [ipsBruno](https://pastebin.com/u/ipsBruno) | [Drakins](https://pastebin.com/u/drakins)
 
 
-
-<p align="left">
-  <img src="https://img.shields.io/endpoint?url=https://ipsbruno3.github.io/ipsbruno3/stars.json&style=for-the-badge&labelColor=0D1117&color=FBBF24&label=%E2%AD%90%20Stars&cacheSeconds=3600" />
-  <img src="https://img.shields.io/endpoint?url=https://ipsbruno3.github.io/ipsbruno3/forks.json&style=for-the-badge&labelColor=0D1117&color=FBBF24&label=%F0%9F%8D%B4%20Forks&cacheSeconds=3600" />
-</p>
-
 ---
 
 ### ⚡ Highlights
